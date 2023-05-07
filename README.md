@@ -4,13 +4,13 @@
 
 Ключи в ViP Группу:  
 
-"Give_GrenadeHe" "Количество гранат"  
-"Give_GrenadeFl" "Количество флешек"  
-"Give_GrenadeSmoke" "Количество дыма"  
+	"Give_GrenadeHe" "Количество гранат"  
+	"Give_GrenadeFl" "Количество флешек"  
+	"Give_GrenadeSmoke" "Количество дыма"  
 
-"Give_GrenadeHe" "7"  
-"Give_GrenadeFl" "8"  
-"Give_GrenadeSmoke" "9"  
+	"Give_GrenadeHe" "7"  
+	"Give_GrenadeFl" "8"  
+	"Give_GrenadeSmoke" "9"  
 
 Ключ в файл перевода:  
 
