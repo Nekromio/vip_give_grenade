@@ -14,19 +14,19 @@
 
 Ключ в файл перевода:  
 	"Give_GrenadeHe"
-{
-	"en"	"Auto weapon he"
-	"ru"	"Автовыдача гранат"
-}
+	{
+		"en"	"Auto weapon he"
+		"ru"	"Автовыдача гранат"
+	}
 
-"Give_GrenadeFl"
-{
-	"en"	"Auto weapon fl"
-	"ru"	"Автовыдача флешек"
-}
+	"Give_GrenadeFl"
+	{
+		"en"	"Auto weapon fl"
+		"ru"	"Автовыдача флешек"
+	}
 
-"Give_GrenadeSmoke"
-{
-	"en"	"Auto weapon smoke"
-	"ru"	"Автовыдача дыма"
-}
+	"Give_GrenadeSmoke"
+	{
+		"en"	"Auto weapon smoke"
+		"ru"	"Автовыдача дыма"
+	}
