@@ -13,6 +13,7 @@
 "Give_GrenadeSmoke" "9"  
 
 Ключ в файл перевода:  
+
 	"Give_GrenadeHe"
 	{
 		"en"	"Auto weapon he"
